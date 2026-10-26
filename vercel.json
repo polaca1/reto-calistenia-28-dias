@@ -6,6 +6,11 @@
       "source": "/ABRIR_RETO_28_DIAS.html",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/ABRIR_RETO_28_DIAS",
+      "destination": "/",
+      "permanent": true
     }
   ]
 }
